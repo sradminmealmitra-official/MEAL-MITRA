@@ -1,0 +1,6 @@
+{
+  "name": "Tiffin Seal Auth & Track",
+  "description": "Secure QR code authentication system for food tiffins. Coordinates kitchen dispatch, dual joint-paper tape seal verification, customer mobile OTP validation, and real-time syncing of order status directly with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
